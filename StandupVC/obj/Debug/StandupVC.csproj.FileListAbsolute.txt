@@ -1,0 +1,10 @@
+C:\Users\petruska\source\repos\StandupVC\StandupVC\bin\Debug\StandupVC.exe.config
+C:\Users\petruska\source\repos\StandupVC\StandupVC\bin\Debug\StandupVC.exe
+C:\Users\petruska\source\repos\StandupVC\StandupVC\bin\Debug\StandupVC.pdb
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.Form1.resources
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.Properties.Resources.resources
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.csproj.GenerateResource.cache
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.csproj.CoreCompileInputs.cache
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.exe
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.pdb
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.csproj.AssemblyReference.cache
