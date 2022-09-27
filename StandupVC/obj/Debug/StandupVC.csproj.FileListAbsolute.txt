@@ -1,0 +1,30 @@
+C:\Users\petruska\source\repos\StandupVC\StandupVC\bin\Debug\StandupVC.exe.config
+C:\Users\petruska\source\repos\StandupVC\StandupVC\bin\Debug\StandupVC.exe
+C:\Users\petruska\source\repos\StandupVC\StandupVC\bin\Debug\StandupVC.pdb
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.Form1.resources
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.Properties.Resources.resources
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.csproj.GenerateResource.cache
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.csproj.CoreCompileInputs.cache
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.exe
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.pdb
+C:\Users\petruska\source\repos\StandupVC\StandupVC\obj\Debug\StandupVC.csproj.AssemblyReference.cache
+L:\StandupVC\StandupVC\bin\Debug\Visual Standup.exe.config
+L:\StandupVC\StandupVC\bin\Debug\Visual Standup.exe
+L:\StandupVC\StandupVC\bin\Debug\Visual Standup.pdb
+L:\StandupVC\StandupVC\obj\Debug\StandupVC.csprojAssemblyReference.cache
+L:\StandupVC\StandupVC\obj\Debug\StandupVC.Form1.resources
+L:\StandupVC\StandupVC\obj\Debug\VisualStandup.Properties.Resources.resources
+L:\StandupVC\StandupVC\obj\Debug\StandupVC.csproj.GenerateResource.cache
+L:\StandupVC\StandupVC\obj\Debug\StandupVC.csproj.CoreCompileInputs.cache
+L:\StandupVC\StandupVC\obj\Debug\Visual Standup.exe
+L:\StandupVC\StandupVC\obj\Debug\Visual Standup.pdb
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\bin\Debug\Visual Standup.exe.config
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\bin\Debug\Visual Standup.exe
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\bin\Debug\Visual Standup.pdb
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Debug\StandupVC.csproj.AssemblyReference.cache
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Debug\StandupVC.Form1.resources
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Debug\VisualStandup.Properties.Resources.resources
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Debug\StandupVC.csproj.GenerateResource.cache
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Debug\StandupVC.csproj.CoreCompileInputs.cache
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Debug\Visual Standup.exe
+C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Debug\Visual Standup.pdb
