@@ -46,15 +46,15 @@ namespace StandupVC
                 {
                     if (this.Day == "Friday")
                     {
-                        result = "\r\n" + this.Day + " >> I've worked " + this.FrontDesk + " hours on front desk, " + this.ServicePhones + " hours on service phones, and " + this.OperatorConsole + " hours on Operator so far, and will work more as scheduled. I've addressed " + this.TicksAddressed + " and actioned " + this.TicksActioned + " tickets so far, and will work on more if available. ";
+                        result = "\r\n" + this.Day + " >> I've worked " + this.FrontDesk + " hours on front desk, " + this.ServicePhones + " hours on service phones, and " + this.OperatorConsole + " hours on Operator so far, and will work more as scheduled. I've addressed " + this.TicksAddressed + " and actioned " + this.TicksActioned + " tickets so far, and will work on more if available. " + this.AdditionalTasks;
                         if (this.LabShift)
                         {
-                            result += " >> I will work a lab shift. ";
+                            result += " I will work a lab shift. ";
                         }
                     }
                     else
                     {
-                        result = "\r\n" + this.Day + " >> I worked " + this.FrontDesk + " hours on front desk, " + this.ServicePhones + " hours on service phones, and " + this.OperatorConsole + " hours on Operator. I've addressed " + this.TicksAddressed + " and actioned " + this.TicksActioned + " tickets. ";
+                        result = "\r\n" + this.Day + " >> I worked " + this.FrontDesk + " hours on front desk, " + this.ServicePhones + " hours on service phones, and " + this.OperatorConsole + " hours on Operator. I've addressed " + this.TicksAddressed + " and actioned " + this.TicksActioned + " tickets. " + this.AdditionalTasks;
                         if (this.LabShift)
                         {
                             result += "I worked a lab shift. ";

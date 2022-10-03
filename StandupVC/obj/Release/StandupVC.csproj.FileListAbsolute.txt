@@ -28,3 +28,13 @@ C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Release\StandupVC.c
 C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Release\StandupVC.csproj.CoreCompileInputs.cache
 C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Release\Visual Standup.exe
 C:\Users\petruska\Downloads\Visual Standup\1.2\StandupVC\obj\Release\Visual Standup.pdb
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\obj\Release\StandupVC.csprojAssemblyReference.cache
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\obj\Release\StandupVC.Form1.resources
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\obj\Release\VisualStandup.Properties.Resources.resources
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\obj\Release\StandupVC.csproj.GenerateResource.cache
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\obj\Release\StandupVC.csproj.CoreCompileInputs.cache
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\obj\Release\Visual Standup.exe
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\obj\Release\Visual Standup.pdb
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\bin\Release\Visual Standup.exe.config
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\bin\Release\Visual Standup.exe
+C:\Users\petruska\Downloads\Visual-Standup-main\StandupVC\bin\Release\Visual Standup.pdb
